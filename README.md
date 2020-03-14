@@ -1,5 +1,4 @@
 # Code
-Portal Code
 Begin Object Class=/Script/BlueprintGraph.K2Node_ComponentBoundEvent Name="K2Node_ComponentBoundEvent_1"
 NodePosX=784
 NodePosY=144
